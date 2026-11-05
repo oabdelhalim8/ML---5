@@ -1,1 +1,1 @@
-ML project (ensemble methods - voting classifiers - bagging and pasting - random forests - boosting - adaboost - gradient boosting - histogram-based gradient boosting) (moons - iris)
+ML project (ensemble methods - voting classifiers - bagging and pasting - random forests - boosting - adaboost - gradient boosting - histogram-based gradient boosting - stacking) (moons - iris - housing values)
